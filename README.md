@@ -1,2 +1,2 @@
 # random 
-Esta es una prueba para de la clonacion de proyecos y su commit en GITHUB
+Esta es una prueba para de la clonacion de proyectos y su commit en GITHUB
